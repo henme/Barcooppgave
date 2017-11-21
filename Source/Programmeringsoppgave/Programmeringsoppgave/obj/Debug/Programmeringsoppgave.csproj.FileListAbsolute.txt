@@ -1,0 +1,55 @@
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe.config
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csprojResolveAssemblyReference.cache
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Form1.resources
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Properties.Resources.resources
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csproj.GenerateResource.Cache
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/Barco/Source2/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe.config
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csprojResolveAssemblyReference.cache
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Form1.resources
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Properties.Resources.resources
+C:/Users/Henrik/Desktop/Barco/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csproj.GenerateResource.Cache
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe.config
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csprojResolveAssemblyReference.cache
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Form1.resources
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Properties.Resources.resources
+C:/Users/Henrik/Desktop/BarcoBackup/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csproj.GenerateResource.Cache
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe.config
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csprojResolveAssemblyReference.cache
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Properties.Resources.resources
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csproj.GenerateResource.Cache
+C:/Users/Henrik/Desktop/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.DrawForm.resources
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe.config
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.pdb
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csprojResolveAssemblyReference.cache
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.DrawForm.resources
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Properties.Resources.resources
+C:/Users/Henrik/Desktop/Ny mappe/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csproj.GenerateResource.Cache
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe.config
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.exe
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/bin/Debug/Programmeringsoppgave.pdb
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csprojResolveAssemblyReference.cache
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.DrawForm.resources
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.Properties.Resources.resources
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csproj.GenerateResource.Cache
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.csproj.CoreCompileInputs.cache
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.exe
+/Users/hkm/Dropbox/Barcooppgave/Source/Programmeringsoppgave/Programmeringsoppgave/obj/Debug/Programmeringsoppgave.pdb
